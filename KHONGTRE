@@ -26,7 +26,6 @@ http://103.75.187.237:9981/stream/channelid/264239339?
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ SV2
 http://pcriptv.duckdns.org:9981/stream/channelid/1121221167?
 
-#-*-- VTV FPT -*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1 FPT
 http://live.vthanhtivi.pw/vtv1
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 FPT
