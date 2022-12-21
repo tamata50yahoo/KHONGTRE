@@ -1,12 +1,5 @@
 #EXTM3U
 
-#EXTINF:0,VTV2 MyTV
-#EXTGRP:VTV
-https://wallpapermeter.tk/worldcup/vtv2mytv
-#EXTINF:0,VTV2 ViettelTV
-#EXTGRP:VTV
-http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv2
-
 #EXTINF:0,VTV2 SV1
 #EXTGRP:VTV
 http://172.104.57.43:8811/stream/channelid/1779682701?profile=pass
@@ -16,13 +9,6 @@ http://103.75.187.237:9981/stream/channelid/171222244?
 #EXTINF:0,VTV2 SV3
 #EXTGRP:VTV
 http://pcriptv.duckdns.org:9981/stream/channelid/1783189452?
-
-#EXTINF:0,VTV3 MyTV
-#EXTGRP:VTV
-https://wallpapermeter.tk/worldcup/vtv3mytv
-#EXTINF:0,VTV3 ViettelTV
-#EXTGRP:VTV
-http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv3
 
 #EXTINF:0,VTV3 SV1
 #EXTGRP:VTV
@@ -34,13 +20,6 @@ http://103.75.187.237:9981/stream/channelid/266720209?
 #EXTGRP:VTV
 http://pcriptv.duckdns.org:9981/stream/channelid/1997799915?
 
-#EXTINF:0,VTV5 MyTV
-#EXTGRP:VTV
-https://wallpapermeter.tk/worldcup/vtv5mytv
-#EXTINF:0,VTV5 ViettelTV
-#EXTGRP:VTV
-http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtv5
-
 #EXTINF:0,VTV5 SV1
 #EXTGRP:VTV
 http://172.104.57.43:8811/stream/channelid/105724547?profile=pass
@@ -50,13 +29,6 @@ http://103.75.187.237:9981/stream/channelid/515067987?
 #EXTINF:0,VTV5 SV3
 #EXTGRP:VTV
 http://pcriptv.duckdns.org:9981/stream/channelid/2037364001?
-
-#EXTINF:0,VTV Cần Thơ MyTV
-#EXTGRP:VTV
-https://wallpapermeter.tk/worldcup/vtvcanthomytv
-#EXTINF:0,VTV Cần Thơ ViettelTV
-#EXTGRP:VTV
-http://api.vthanhtivi.pw/v1/getlink/vietteltvrtp/vtvct
 
 #EXTINF:0,VTV Cần Thơ SV1
 #EXTGRP:VTV
