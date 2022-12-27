@@ -2,27 +2,22 @@
 
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 SV1
 http://172.104.57.43:8811/stream/channelid/1779682701?profile=pass
-#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 SV2
-http://103.75.187.237:9981/stream/channelid/171222244?
+
 #EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2 SV3
 http://pcriptv.duckdns.org:9981/stream/channelid/1783189452?
 
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 SV1
 http://172.104.57.43:8811/stream/channelid/192899465?profile=pass
-#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 SV2
-http://103.75.187.237:9981/stream/channelid/266720209?
+
 #EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3 SV3
 http://pcriptv.duckdns.org:9981/stream/channelid/1997799915?
 
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 SV1
 http://172.104.57.43:8811/stream/channelid/105724547?profile=pass
-#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 SV2
-http://103.75.187.237:9981/stream/channelid/515067987?
+
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5 SV3
 http://pcriptv.duckdns.org:9981/stream/channelid/2037364001?
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ SV1
-http://103.75.187.237:9981/stream/channelid/264239339?
 #EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ SV2
 http://pcriptv.duckdns.org:9981/stream/channelid/1121221167?
 
